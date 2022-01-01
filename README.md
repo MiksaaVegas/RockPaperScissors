@@ -9,7 +9,7 @@ This Rock Paper Scissors game is a browser game. It is not really a game because
 - Dark theme design
 - Simple, but modern style
 - Nice and smooth animations to make the whole thing better!
-- Icons made by Pixel Perfect and Freepik from [Flaticon](www.flaticon.com)
+- Icons made by Pixel Perfect and Freepik from [Flaticon](https://www.flaticon.com/)
 
 ### How to open the website?
 The website is not hosted, so you have to download the floder with source code. Once you download the whole folder, you just have to open the `index.html` file with your browser and that's it!
